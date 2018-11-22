@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RestAPI</string>
+    <string name="buttonLondon">Result London Temperature</string>
+</resources>
